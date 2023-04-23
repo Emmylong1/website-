@@ -290,5 +290,5 @@ In this blog, we wrote an Ansible playbook on an EC2 instance and deployed a web
 
 See my blog for details:
 My blog:
-https://lnkd.in/e4ayvsJC
+
 
